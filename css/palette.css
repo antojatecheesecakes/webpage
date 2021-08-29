@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.cakes-1-hex { color: #237574; }
+.cakes-2-hex { color: #B02151; }
+.cakes-3-hex { color: #CB6393; }
+.cakes-4-hex { color: #90e1d8ff; }
+.cakes-5-hex { color: #7c2b0b; }
+
+/* Color Theme Swatches in RGBA */
+.cakes-1-rgba { color: rgba(35, 117, 116, 1); }
+.cakes-2-rgba { color: rgba(175, 33, 80, 1); }
+.cakes-3-rgba { color: rgba(202, 98, 147, 1); }
+.cakes-4-rgba { color: rgba(144, 225, 216, 1); }
+.cakes-5-rgba { color: rgba(207, 42, 75, 1); }
+
+/* Color Theme Swatches in HSLA */
+.cakes-1-hsla { color: hsla(179, 53, 29, 1); }
+.cakes-2-hsla { color: hsla(339, 68, 40, 1); }
+.cakes-3-hsla { color: hsla(332, 49, 59, 1); }
+.cakes-4-hsla { color: hsla(173, 57, 72, 1); }
+.cakes-5-hsla { color: hsla(348, 66, 49, 1); }
